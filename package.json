@@ -10,6 +10,9 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "@types/styled-components": "^4.4.2",
+    "autoprefixer": "^9.7.4",
+    "cafeta-components": "lacafetalab/cafeta-components",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
@@ -35,5 +38,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "styled-components": "^5.0.0",
+    "tailwind.macro": "^1.0.0-alpha.10",
+    "tailwindcss": "^1.1.4"
   }
 }
