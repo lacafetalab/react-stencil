@@ -43,5 +43,11 @@
     "styled-components": "^5.0.0",
     "tailwind.macro": "^1.0.0-alpha.10",
     "tailwindcss": "^1.1.4"
+  },
+
+  "resolutions": {
+     "serialize-javascript": "^2.1.1",
+     "acorn": "^6.4.1"
+
   }
 }
